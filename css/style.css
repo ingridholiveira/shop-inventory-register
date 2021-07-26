@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mark{
+    text-align: right;
+}
+
+.alignBtns{
+    width: 30%;
+    background-color: #10102b;
+    color: #ffff;
+    border: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.shop{
+    width: 300px;
+    float: right;
+    display: flex;
+}
+
+.shop p{
+    display: inline;
+}
+
+table{
+    clear: both;
+    background-color: #ff1210;
+    border-radius: 10px;
+    color: #ffff;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+}
+
+caption {
+    color: #ff1210;
+    font-weight: bold;
+    font-size: 25px;
+}
